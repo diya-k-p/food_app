@@ -1,5 +1,5 @@
 # Food ordering app - Flutter UI
-authered by diya
+Created by diya
 
 ### Food App - UI
 
